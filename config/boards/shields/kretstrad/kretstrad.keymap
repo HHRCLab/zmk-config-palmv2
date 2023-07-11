@@ -19,7 +19,7 @@
 #define SUPER LC(LSHIFT)
 #define SUPER2 LA(LC(LSHIFT))
 
-/*
+
 
 &mt {
   tapping-term-ms = <200>;
@@ -79,7 +79,7 @@
                 = <&macro_tap &kp ESC &kp COLON &kp W &kp Q>;
         };
     };
-*/
+
 
 
 
