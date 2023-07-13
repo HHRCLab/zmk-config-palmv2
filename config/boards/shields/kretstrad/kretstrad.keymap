@@ -45,7 +45,7 @@
       label = "TAP_DANCE_0";
       #binding-cells = <0>;
       tapping-term-ms = <200>;
-      bindings = <&tog NUM>, <&tog SYM>, <&tog FUNC>;
+      bindings = <&tog 1>, <&tog 2>, <&tog 3>;
     };
 
     td1: tap_dance_1 {
